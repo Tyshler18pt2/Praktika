@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Izmenil_chtoto_Tyshler
 ==================================
